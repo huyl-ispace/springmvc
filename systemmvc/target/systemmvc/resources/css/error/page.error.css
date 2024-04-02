@@ -1,0 +1,35 @@
+.page_error_web {
+    padding:40px 0;
+    background:#fff;
+    font-family: 'Arvo', serif;
+}
+
+.page_error_web img {
+    width:100%;
+}
+
+.four_zero_four_bg {
+    background-image: url(../../images/page_error.gif);
+    height: 400px;
+    background-position: center;
+}
+
+.four_zero_four_bg h1 {
+    font-size:80px;
+}
+
+.four_zero_four_bg h3 {
+    font-size:80px;
+}
+
+.link_error_web {
+    color: #fff!important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;
+}
+
+.constant_box_error_web {
+    margin-top:-50px;
+}
